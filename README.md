@@ -7,7 +7,7 @@ Saakuru Gainz Bot is a script designed to interact with the Saakuru Gainz platfo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dante4rt/saakuru-gainz-bot.git
+git clone https://github.com/lunamufii/saakuru-gainz-bot
 ```
 
 2. Install dependencies:
